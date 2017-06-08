@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Генератор мемов</string>
+    <string name="lets_memeify">Сгенерировать мем!</string>
+
+    <string name="stage_one">Первая стадия создания мема. Коснитесь картинки ниже чтобы сделать фото.</string>
+    <string name="looking_good">Это хорошее фото! Перейдем к следующей стадии.</string>
+    <string name="select_a_picture">Выберите фото для мема!</string>
+
+    <string name="stage_two">Вторая стадия создания мема. Введите текст, который вы хотите отобразить на фотографии.</string>
+    <string name="top_text_filler">Больше волос?</string>
+    <string name="bottom_text_filler">Я так не думаю!</string>
+    <string name="save_image">Сохранить изображение</string>
+    <string name="add_meme_message">You need to memeify your picture!</string>
+    <string name="save_image_failed">Не удалось сохранить изображение.</string>
+    <string name="save_image_succeeded">Изображение сохранено</string>
+
+
+    <string name="image_mime_type">image/*</string>
+    <string name="bottom_text">Текст снизу</string>
+    <string name="top_text">Текст сверху</string>
+  <string name="permissions_please">В доступе отказано!</string>
+
+</resources>
